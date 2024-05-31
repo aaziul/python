@@ -1,5 +1,5 @@
 # python
-Repositório com códigos realizados durantes os estudos de Python em seu respectivo website de estudos.
+Repositório com códigos realizados durante os estudos de Python em seu respectivo website de estudos.
 
 [Atualizações no repositório em andamento]
 
